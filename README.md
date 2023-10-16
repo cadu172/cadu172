@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cadu172
 - 👀 I’m interested in desenvolvimento fullcycle
 - 🌱 I’m currently learning Laravel/Angular/Java
-- 💞️ I’m looking to collaborate Passando minha experiência aos jovens desenvolvedores
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me cadu172@gmail.com
 
 <!---
